@@ -1,0 +1,9 @@
+digital-subscription-site/
+├── client/
+│   └── index.html
+├── server/
+│   ├── index.js
+│   ├── .env
+│   └── package.json
+├── uploads/                # Uploaded files stored here
+└── README.md
