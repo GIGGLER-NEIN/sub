@@ -1,0 +1,9 @@
+📁 digital-subscription-site/
+├── client/
+│   └── index.html
+├── server/
+│   ├── index.js
+│   ├── package.json
+│   └── .env
+├── uploads/                # Will be created automatically
+└── README.md
